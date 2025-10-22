@@ -27,14 +27,14 @@
 
 1. 打开您的项目
 2. 选择 `File` → `Add Package Dependencies...`
-3. 输入仓库 URL：`https://github.com/yourusername/SplitViewKit.git`
+3. 输入仓库 URL：`https://github.com/leyugod/SplitViewKit.git`
 4. 选择版本并添加到您的项目
 
 或者在 `Package.swift` 中添加依赖：
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/yourusername/SplitViewKit.git", from: "1.0.0")
+    .package(url: "https://github.com/leyugod/SplitViewKit.git", from: "1.0.0")
 ]
 ```
 
